@@ -2,18 +2,18 @@ public class Lista
 {
     
     int identificador;
-    String descripci贸n;
+    String descripci髇;
     String nombre;
    
     public Lista(int i,String n,String d)
     {
         identificador=i;
         nombre=n;
-        descripci贸n=d;
+        descripci髇=d;
         
     }
      
     public String deDatos(){
-        return "Lista="+identificador+"->" +nombre+" descripci贸n:  "+descripci贸n;
+        return "Lista="+identificador+"->" +nombre+" descripci髇:  "+descripci髇;
     }
 }
