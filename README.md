@@ -1,1 +1,4 @@
 # TareaProgramada
+public class Lista
+{
+    }}
